@@ -18,13 +18,13 @@ grocery.org,resell,102,76%,7,"Food and Beverage,Retail",10/03/1999 05:00,10/03/2
 subject.org,resell,102,84%,7,"Education,Media",02/05/1999 11:11,02/05/2026 11:10,"GoDaddy.com, LLC"
 caring.org,expiring,102,76%,6,"Business,Education,Healthcare",09/07/1997 04:00,08/07/2025 04:00,"GoDaddy.com, LLC"
 begin.org,resell,102,80%,5,Business,05/04/2001 10:45,05/04/2027 11:45,"GoDaddy.com, LLC"
-third.org,resell,100,32%,5,Mathematics,20/01/1998 05:00,19/01/2026 05:00,"TurnCommerce, Inc. DBA NameBright.com"
+third.org,sold,100,16%,5,Mathematics,20/01/1998 05:00,19/01/2026 05:00,"TurnCommerce, Inc. DBA NameBright.com"
 deejay.org,resell,100,88%,6,"Entertainment,Media,Technology",22/09/2003 14:34,22/09/2026 14:34,"GoDaddy.com, LLC"
 exempt.org,resell,100,76%,6,"Business,Finance,Law",13/12/2004 19:02,13/12/2025 19:02,"Sea Wasp, LLC"
 propose.org,resell,100,84%,7,"Business,Education,Politics",01/12/1999 07:17,01/12/2025 07:17,"Gabia, Inc."
 offshore.org,resell,100,92%,8,Finance,07/08/1996 04:00,06/08/2027 04:00,"GoDaddy.com, LLC"
 surrogate.org,resell,100,28%,9,Healthcare,20/07/2013 14:30,20/07/2026 14:30,Dynadot Inc
-eighth.org,resell,100,28%,6,Mathematics,24/06/2013 14:30,24/06/2026 14:30,CommuniGal Communication Ltd.
+eighth.org,resell,100,6%,6,Mathematics,24/06/2013 14:30,24/06/2026 14:30,CommuniGal Communication Ltd.
 brood.org,resell,98,80%,5,"Agriculture,Environment,Science",13/01/1999 05:00,13/01/2026 05:00,"GoDaddy.com, LLC"
 heaveho.org,available,98,76%,8,"Entertainment,Sports,Transportation",,,
 midFebruary.org,available,98,72%,12,General,,,
@@ -209,7 +209,7 @@ trojan.org,resell,82,80%,6,"Media,Technology",04/03/1999 05:00,04/03/2026 05:00,
 Nuorese.org,available,82,68%,7,General,,,
 sundanese.org,available,82,72%,9,"Geography,Humanities",,,
 decade.org,resell,82,10%,6,Mathematics,18/04/2002 19:19,18/04/2026 19:19,"GoDaddy.com, LLC"
-fivesome.org,available,82,4%,8,Sports,,,
+fivesome.org,available,82,1%,8,Sports,,,
 monologue.org,resell,82,80%,9,"Arts,Education,Humanities",27/03/2002 19:51,27/03/2026 19:51,PDR Ltd. d/b/a PublicDomainRegistry.com
 orderup.org,resell,82,84%,8,"Food and Beverage,Hospitality,Retail",21/11/2022 15:15,21/11/2025 15:15,"NameSilo, LLC"
 pedicure.org,resell,82,80%,8,"Fashion,Health and Fitness,Retail",04/03/2010 14:30,04/03/2026 14:30,"Sea Wasp, LLC"
@@ -324,7 +324,7 @@ sonogram.org,resell,78,80%,8,"Healthcare,Medicine",23/05/2001 01:53,23/05/2026 0
 clothespin.org,expired,78,84%,10,"Fashion,Retail",05/05/2024 07:11,05/05/2025 07:11,"Spaceship, Inc."
 pleased.org,resell,78,80%,7,"Health and Fitness,Hospitality",02/12/1998 05:00,01/12/2025 05:00,Moniker Online Services LLC
 spelk.org,available,78,80%,5,Entertainment,,,
-sixtynine.org,resell,78,36%,10,Mathematics,02/06/2003 10:15,02/06/2027 10:15,"GoDaddy.com, LLC"
+sixtynine.org,resell,78,8%,10,Mathematics,02/06/2003 10:15,02/06/2027 10:15,"GoDaddy.com, LLC"
 headlock.org,resell,78,88%,8,"Entertainment,Media,Sports",27/12/2021 18:55,27/12/2025 18:55,"Name.com, Inc."
 TDK.org,resell,78,84%,3,Technology,15/02/2023 15:15,15/02/2026 15:15,"NameCheap, Inc."
 fiber.org,resell,78,84%,5,"Healthcare,Manufacturing,Technology",01/09/2005 19:01,01/09/2025 19:01,"NameSilo, LLC"
@@ -2486,7 +2486,7 @@ soundplural.org,available,60,72%,12,"Education,Media",,,
 comeshort.org,available,60,72%,10,General,,,
 platformbridge.org,available,60,76%,15,"Construction,Transportation",,,
 saithe.org,available,60,72%,6,"Environment,Food and Beverage",,,
-tertiary.org,resell,60,20%,8,Education,26/11/2016 15:40,26/11/2025 15:40,"GoDaddy.com, LLC"
+tertiary.org,resell,60,4%,8,Education,26/11/2016 15:40,26/11/2025 15:40,"GoDaddy.com, LLC"
 dunk.org,resell,60,92%,4,"Food and Beverage,Media,Sports",04/10/2005 19:04,04/10/2025 19:04,"Sav.com, LLC"
 touringsquad.org,available,60,72%,13,"Media,Sports,Travel",,,
 cognisant.org,available,60,20%,9,"Business,Education",,,
@@ -3255,7 +3255,7 @@ lifeofitsown.org,available,58,72%,15,General,,,
 refinery.org,resell,58,88%,8,"Energy,Manufacturing,Technology",18/01/1997 05:00,19/01/2026 05:00,"GoDaddy.com, LLC"
 petrolengine.org,available,58,72%,13,"Automotive,Energy,Transportation",,,
 liturgism.org,available,58,72%,9,Religion,,,
-sextuplet.org,available,58,8%,9,Healthcare,,,
+sextuplet.org,available,58,1%,9,Healthcare,,,
 sodaprairie.org,available,58,72%,12,"Agriculture,Environment,Geography",,,
 desertvarnish.org,available,58,72%,14,"Environment,General,Science",,,
 threewayswitch.org,available,58,72%,16,"Construction,Real Estate,Technology",,,
@@ -3554,7 +3554,7 @@ USAFE.org,expiring,58,80%,5,"General,Military",15/07/2000 15:43,15/07/2025 15:43
 llb.org,resell,58,80%,3,"Business,Education,Law",23/02/2000 05:47,23/02/2026 05:47,Dynadot Inc
 godfatherhood.org,available,58,8%,13,General,,,
 hymnodic.org,available,58,4%,8,Religion,,,
-sixtyone.org,expiring,58,16%,9,Mathematics,13/08/2007 23:46,13/08/2025 23:46,IONOS SE
+sixtyone.org,sold,58,3%,9,Mathematics,13/08/2007 23:46,13/08/2026 23:46,IONOS SE
 masterofthehorse.org,available,58,8%,19,General,,,
 busk.org,resell,58,84%,4,"Arts,Entertainment",07/01/2000 15:08,07/01/2026 15:08,"eNom, LLC"
 designtocost.org,available,58,72%,14,"Business,General,Technology",,,
@@ -3582,7 +3582,7 @@ exocrinegland.org,available,58,72%,14,"Healthcare,Medicine,Science",,,
 firstviolin.org,available,58,72%,12,"Arts,Entertainment",,,
 backdive.org,available,58,72%,9,"Entertainment,Health and Fitness,Sports",,,
 renumber.org,available,58,76%,8,"Business,Technology,Telecommunications",,,
-eighter.org,available,58,16%,7,Mathematics,,,
+eighter.org,available,58,2%,7,Mathematics,,,
 dreamtrance.org,available,58,72%,12,General,,,
 iguassu.org,available,58,72%,7,"Environment,Geography,Travel",,,
 hardroll.org,available,58,72%,9,"Food and Beverage,Hospitality,Retail",,,
@@ -4063,7 +4063,7 @@ absorptionband.org,available,56,72%,15,"Education,Science,Technology",,,
 analoguehole.org,available,56,72%,13,"Media,Technology,Telecommunications",,,
 finishingmove.org,available,56,72%,14,"Entertainment,Media,Sports",,,
 filing.org,expiring,56,76%,6,"Business,Finance,Law",23/07/2003 14:52,23/07/2025 14:52,"Sea Wasp, LLC"
-xxxvii.org,available,56,12%,6,Mathematics,,,
+xxxvii.org,available,56,2%,6,Mathematics,,,
 allthego.org,available,56,72%,10,General,,,
 encyclopaedical.org,available,56,72%,15,"Education,Media,Science",,,
 semaphoreflag.org,available,56,72%,14,"Technology,Transportation",,,
@@ -4463,7 +4463,7 @@ mentalnerve.org,available,56,72%,12,"Healthcare,Medicine,Science",,,
 pyrite.org,resell,56,88%,6,"Mining,Science",13/01/2000 23:02,13/01/2027 23:02,"Spaceship, Inc."
 weaknuclearforce.org,available,56,72%,18,"Education,Science,Technology",,,
 Agatha.org,resell,56,92%,6,General,02/06/2011 14:30,02/06/2026 14:30,"Megazone Corp., dba HOSTING.KR"
-fiftyfour.org,resell,56,20%,10,Mathematics,17/11/2018 14:30,17/11/2026 14:30,"GoDaddy.com, LLC"
+fiftyfour.org,resell,56,3%,10,Mathematics,17/11/2018 14:30,17/11/2026 14:30,"GoDaddy.com, LLC"
 Africanharrierhawk.org,available,56,72%,20,"Education,Environment,Science",,,
 economywide.org,available,56,72%,11,"Business,Finance,General",,,
 genderbreadperson.org,available,56,72%,18,Humanities,,,
@@ -4487,7 +4487,7 @@ texturing.org,available,56,76%,9,"Arts,Fashion,Manufacturing",,,
 driftwood.org,resell,56,88%,9,"Arts,Environment,Science",24/08/1998 04:00,23/08/2025 04:00,"GoDaddy.com, LLC"
 personalfoul.org,available,56,72%,13,"Entertainment,Law,Sports",,,
 browsability.org,available,56,72%,12,General,,,
-lviii.org,available,56,4%,5,Mathematics,,,
+lviii.org,available,56,1%,5,Mathematics,,,
 skiboot.org,available,56,72%,8,"Fashion,Retail,Sports",,,
 silverrule.org,available,56,72%,11,"Humanities,Law,Religion",,,
 energetically.org,available,56,76%,13,"Entertainment,Health and Fitness,Sports",,,
@@ -4767,7 +4767,7 @@ farnesoicacid.org,available,56,72%,14,"Pharmaceuticals,Science",,,
 addresstheball.org,available,56,76%,16,Sports,,,
 generalcargo.org,available,56,72%,13,Transportation,,,
 spikerush.org,available,56,72%,10,"Environment,Health and Fitness,Sports",,,
-halfdozen.org,available,56,8%,10,Mathematics,,,
+halfdozen.org,available,56,1%,10,Mathematics,,,
 luda.org,resell,56,92%,4,"Entertainment,Fashion,Media",12/01/2000 08:34,12/01/2026 08:34,"GoDaddy.com, LLC"
 tantonypig.org,available,56,72%,11,Media,,,
 maximalideal.org,available,56,72%,13,"Mathematics,Science,Technology",,,
@@ -4776,7 +4776,7 @@ eggslice.org,available,56,72%,9,Food and Beverage,,,
 drippricing.org,available,56,72%,12,"Business,General,Retail",,,
 liberaleducation.org,expired,56,72%,17,Education,11/05/2024 15:15,11/05/2025 15:15,Gname 023 Inc
 commoner.org,resell,56,84%,8,"Humanities,Politics",13/11/2022 15:15,13/11/2026 15:15,"GoDaddy.com, LLC"
-xxxiii.org,available,56,20%,6,Mathematics,,,
+xxxiii.org,available,56,2%,6,Mathematics,,,
 coughmedicine.org,available,56,72%,14,General,,,
 brushaway.org,available,56,72%,10,General,,,
 expirydate.org,available,56,72%,11,"Food and Beverage,Healthcare,Retail",,,
@@ -5785,13 +5785,13 @@ Japantallow.org,available,52,4%,12,Manufacturing,,,
 avirulent.org,available,52,8%,9,Healthcare,,,
 Chelseaboots.org,available,52,8%,13,Fashion,,,
 fullofbread.org,available,52,72%,13,Food and Beverage,,,
-sixtyfour.org,resell,52,20%,10,Mathematics,08/08/2025 17:00,08/08/2026 17:00,Dynadot Inc
+sixtyfour.org,resell,52,3%,10,Mathematics,08/08/2025 17:00,08/08/2026 17:00,Dynadot Inc
 eustachio.org,available,52,72%,9,"Healthcare,Medicine,Science",,,
 chalkiness.org,available,52,8%,10,General,,,
 blackash.org,available,52,76%,9,"Agriculture,Environment,Manufacturing",,,
 expectoration.org,available,52,76%,13,"Healthcare,Medicine,Pharmaceuticals",,,
 scrutinising.org,available,52,72%,12,"Business,Law,Media",,,
-ninetytwo.org,resell,52,36%,10,Mathematics,01/06/2025 22:17,01/06/2026 22:17,"Spaceship, Inc."
+ninetytwo.org,resell,52,4%,10,Mathematics,01/06/2025 22:17,01/06/2026 22:17,"Spaceship, Inc."
 attempted.org,resell,52,24%,9,Law,29/06/2016 14:45,29/06/2026 14:45,"Network Solutions, LLC"
 interpleural.org,available,52,4%,12,"Healthcare,Medicine,Pharmaceuticals",,,
 Indianink.org,available,52,72%,10,Arts,,,
@@ -5823,7 +5823,7 @@ meanvalue.org,available,52,72%,10,"Business,Mathematics,Science",,,
 swordcane.org,available,52,72%,10,"Arts,Military",,,
 selfevidently.org,available,52,72%,14,"Humanities,Law,Media",,,
 flaxcotton.org,available,52,72%,11,"Agriculture,Fashion,General",,,
-lxxiii.org,available,52,12%,6,Mathematics,,,
+lxxiii.org,available,52,1%,6,Mathematics,,,
 luxuriantly.org,available,52,72%,11,"Arts,Fashion,Media",,,
 grayliterature.org,available,52,72%,15,General,,,
 Uniqua.org,resell,52,76%,6,General,04/12/2024 11:13,04/12/2025 11:13,"Spaceship, Inc."
@@ -5860,7 +5860,7 @@ lactogen.org,available,52,72%,8,Pharmaceuticals,,,
 autoactivity.org,available,52,72%,12,"General,Technology",,,
 multilane.org,available,52,72%,9,"Construction,Engineering,Transportation",,,
 bottomburp.org,available,52,72%,11,"Entertainment,Health and Fitness,Media",,,
-xcii.org,resell,52,16%,4,Mathematics,18/04/2025 13:28,18/04/2026 13:28,Dynadot Inc
+xcii.org,resell,52,2%,4,Mathematics,18/04/2025 13:28,18/04/2026 13:28,Dynadot Inc
 irresistibly.org,available,52,76%,12,"Arts,Fashion,Media",,,
 Unchair.org,available,52,72%,7,General,,,
 additionary.org,available,52,72%,11,"Business,Education,Media",,,
@@ -5932,7 +5932,7 @@ Frere.org,resell,52,88%,5,General,20/09/1998 04:00,19/09/2025 04:00,"Spaceship, 
 greaterflamingo.org,available,52,72%,16,Science,,,
 laketsana.org,available,52,72%,10,Geography,,,
 sacredly.org,available,52,72%,8,"Arts,Religion",,,
-lxxii.org,available,52,12%,5,Mathematics,,,
+lxxii.org,available,52,1%,5,Mathematics,,,
 ferretlike.org,available,52,72%,10,"Environment,Media,Science",,,
 infrontof.org,available,52,80%,11,"Business,Education,Media",,,
 geneengineered.org,available,52,72%,15,Science,,,
@@ -6074,7 +6074,7 @@ exciseduty.org,available,52,72%,11,"Business,Finance,General",,,
 howyousay.org,available,52,72%,11,General,,,
 strongmindedly.org,available,52,72%,15,"Education,Humanities,Media",,,
 mercifully.org,available,52,72%,10,"Law,Medicine,Religion",,,
-ninetysix.org,resell,52,48%,10,Mathematics,15/08/2020 14:30,15/08/2026 14:30,"GoDaddy.com, LLC"
+ninetysix.org,resell,52,4%,10,Mathematics,15/08/2020 14:30,15/08/2026 14:30,"GoDaddy.com, LLC"
 Friog.org,available,52,72%,5,General,,,
 Belaya.org,available,52,72%,6,"Business,Geography,Travel",,,
 Stawley.org,available,52,72%,7,"General,Geography",,,
