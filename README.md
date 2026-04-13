@@ -81,7 +81,7 @@ print(df.head())
 | machine.org         | premium   | $88,837.50 | —             | 72             | 36     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | justabout.org       | available | $7.49      | $21.99        | 58             | 5      | 10     | name.com                                    |
 | abatement.org       | resell    | $11,189.50 | $17.99        | 52             | 80     | 9      | GoDaddy.com, LLC                            |
-| wicked.org          | premium   | $34,350.50 | —             | 62             | 30     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| rail.org            | premium   | $20,801.20 | $21.99        | 92             | 29     | 4      | GoDaddy.com, LLC                            |
 | accustomed.org      | available | $7.49      | $21.99        | 72             | 2      | 10     | name.com                                    |
 | suiting.org         | resell    | $1,481.20  | $21.99        | 60             | 72     | 7      | DomainHood LLC                              |
 
