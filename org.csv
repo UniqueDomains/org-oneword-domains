@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-0a9e9ef6-1ac9-49a3-b137-e8b6bbbd069a,commercial.org,resell,,,81,26,10,"GoDaddy.com, LLC",13/06/1997 04:00,12/06/2027 04:00
+0a9e9ef6-1ac9-49a3-b137-e8b6bbbd069a,commercial.org,resell,,,81,25,10,"GoDaddy.com, LLC",13/06/1997 04:00,12/06/2027 04:00
 d7e1e85b-2507-4014-897b-b1ca561b9a92,pickover.org,premium,,,54,72,9,,,
 a622ef82-7728-48da-97b0-23c6db090fba,miterbox.org,premium,,,56,76,9,,,
 bc7a7e68-cfa7-47de-b193-3387d72f8e42,clamchowder.org,premium,,,64,72,12,,,
@@ -934,7 +934,7 @@ b703ca7e-cd77-4f84-bbcc-c3f9d6e297f7,rind.org,resell,,,78,84,4,"GoDaddy.com, LLC
 ef0993ca-c581-4cc5-a4b2-b76485470213,boxseats.org,resell,,,48,12,9,"Sea Wasp, LLC",06/10/2003 15:04,06/10/2025 15:04
 5c3e5473-794d-4a07-9917-26ab8942793c,fingershade.org,premium,,,40,72,12,,,
 3962f606-01bc-49e5-9cce-579ad1b08125,spelk.org,premium,,,78,80,5,,,
-115a68a6-8f8d-465a-8645-249aeb61ba3c,shed.org,resell,,,62,27,4,"NameSilo, LLC",06/03/2001 11:39,06/03/2027 11:39
+115a68a6-8f8d-465a-8645-249aeb61ba3c,shed.org,resell,,,62,27,4,Atom.com Domains LLC,06/03/2001 11:39,06/03/2028 11:39
 70eec27c-2cf1-4360-a630-0287cd5d28ab,achromous.org,premium,,,46,1,9,,,
 d384a031-c249-4796-9902-27dd23fc8a0a,maglevs.org,premium,,,46,4,7,,,
 020fd695-78c2-4dce-bc0b-88bfa5d7ea74,whiteflour.org,premium,,,,72,11,,,
@@ -1139,7 +1139,7 @@ d2874dad-2055-4f55-a569-7a6fb252374e,standingorder.org,premium,,,56,72,14,,,
 d45877f7-7fc4-4773-88ec-481c0c266cb4,athletics.org,resell,86250,21.99,69,52,9,"GoDaddy.com, LLC",02/03/2000 11:57,02/03/2035 11:57
 6064c65b-bd63-4936-a569-6784d8fc0cc7,chiseled.org,premium,,,52,76,8,,,
 b8a3dee1-c9c2-4b30-96a4-669ba2c69298,telephoned.org,premium,,,,4,10,,,
-f7dbf1a6-8d71-4c22-a483-9f1dc2164ac9,esthetic.org,resell,,,70,8,8,"GoDaddy.com, LLC",29/01/2013 14:30,29/01/2027 14:30
+f7dbf1a6-8d71-4c22-a483-9f1dc2164ac9,esthetic.org,resell,,,70,9,8,"GoDaddy.com, LLC",29/01/2013 14:30,29/01/2027 14:30
 fa722ae6-94b7-43d6-9a08-1e409e525dbc,bankline.org,premium,,,56,80,9,,,
 179affe2-5f96-4ba1-b33e-95b149181f49,cisgendered.org,premium,,,70,72,11,,,
 5fefcc25-856c-4061-a81e-59da2f74045a,overvoltage.org,premium,,,74,72,11,,,
@@ -2608,7 +2608,7 @@ cee50815-df63-4766-9bd2-e6c3e49d69d4,nittygritty.org,resell,,,,36,12,PDR Ltd. d/
 439a85e3-16f7-4766-ab0e-754a5ce50932,catchasquare.org,premium,,,66,72,14,,,
 e03f38b9-7c2b-49f3-a3d3-fc88bf56957e,putabout.org,premium,,,68,72,9,,,
 2cc298e6-e79b-4c32-8562-8f545dcd4aba,ladypalm.org,premium,,,54,72,9,,,
-9aee9f61-dc1e-4533-9fbb-4f3f8402ae30,commanding.org,resell,,,87,4,10,"Network Solutions, LLC",30/05/2015 15:18,30/05/2026 15:18
+9aee9f61-dc1e-4533-9fbb-4f3f8402ae30,commanding.org,resell,,,87,3,10,"Network Solutions, LLC",30/05/2015 15:18,30/05/2026 15:18
 bae6eb5e-7d12-4859-b5f3-abaf8f0b9ffa,absolutionary.org,premium,,,50,72,13,,,
 b787ed65-d672-4b9e-bfe0-8810ae5fe09e,takeeffect.org,premium,,,,72,11,,,
 a37cd5dd-d20f-400a-8a01-5fe0c7f39078,Winterfresh.org,premium,,,,72,11,,,
@@ -4011,7 +4011,7 @@ b032f74a-deba-49d7-ad67-fa1287539888,jokearound.org,premium,,,64,8,11,,,
 09c0cacb-27f0-4096-883e-6e06e91b2f48,underlie.org,premium,,,56,76,8,,,
 1a6bba10-1c9b-4715-81d7-6203cb6d0b16,deputise.org,premium,,,61,72,8,,,
 0a5e41d2-ea11-43b1-9036-9678dd174f41,appendaged.org,premium,,,43,1,10,,,
-71997b36-5283-48a2-b369-683c103ea071,bootleg.org,resell,,,100,12,7,"GoDaddy.com, LLC",16/09/1999 21:03,16/09/2026 21:03
+71997b36-5283-48a2-b369-683c103ea071,bootleg.org,resell,,,100,11,7,"GoDaddy.com, LLC",16/09/1999 21:03,16/09/2026 21:03
 8d8ea84e-c4df-48e6-a96c-92cbb7a80e19,fullrigged.org,premium,,,50,72,11,,,
 62609301-70ba-4391-9707-eea54a682be3,halleluiah.org,premium,,,86,72,10,,,
 eeede4b0-07a2-481d-932b-6687db7e066e,naturallogarithm.org,premium,,,62,72,17,,,
@@ -4646,7 +4646,7 @@ d7d37d66-7851-4729-858b-b087a6674ac2,develops.org,resell,,,44,32,8,1API GmbH,15/
 caacc03f-be6c-49c9-b2d1-93d9e645d3ea,magnetictape.org,premium,,,54,72,13,,,
 1a71630a-bce8-45f2-b8a6-c647ff1652d1,catchhands.org,premium,,,66,72,11,,,
 7d0ca63c-b01a-473c-86ad-4ccac67df6f6,WNL.org,resell,,,54,88,3,Dynadot Inc,11/02/2000 01:51,11/02/2026 01:51
-12fab828-157b-4fcd-8eaf-8528f28fa0d0,composed.org,resell,,,71,11,8,Compuglobalhypermega.com LLC,03/10/2016 14:30,03/10/2026 14:30
+12fab828-157b-4fcd-8eaf-8528f28fa0d0,composed.org,resell,,,71,12,8,Compuglobalhypermega.com LLC,03/10/2016 14:30,03/10/2026 14:30
 f5e2f608-9b78-4337-9731-6eead14702bb,ikaite.org,premium,,,58,72,6,,,
 ca5966d0-7c99-473e-8831-8d0181159c3a,GreatBirdIsland.org,premium,,,60,68,17,,,
 09243ad9-5911-47b8-ac15-2e12816dc81b,loudhailer.org,premium,,,60,80,10,,,
@@ -4732,7 +4732,7 @@ e8c3a76f-1b0d-4be6-98cc-802dfd2ed752,colourations.org,premium,,,40,12,12,,,
 3c79c7a6-afb9-4e83-91e1-09b661e974d6,sponsoring.org,resell,,,,28,10,1API GmbH,13/02/2004 10:44,13/02/2026 10:44
 9420a4eb-8d1e-46ec-a972-709c8440f172,localradio.org,resell,,,36,76,11,"GoDaddy.com, LLC",29/11/2023 15:15,29/11/2026 15:15
 e4b26fa1-5854-4c63-a3e6-1def9462f991,pensively.org,premium,,,46,72,9,,,
-63f9a672-ba8c-4e46-8c8f-fbaeb033193d,bored.org,resell,,,68,25,5,"GoDaddy.com, LLC",29/09/1998 04:00,28/09/2026 04:00
+63f9a672-ba8c-4e46-8c8f-fbaeb033193d,bored.org,resell,,,68,24,5,"GoDaddy.com, LLC",29/09/1998 04:00,28/09/2026 04:00
 ff48d3b3-86ce-4f40-9798-76e4409bb1de,borganism.org,premium,,,54,72,9,,,
 dca6e501-181b-4e8b-85b6-7038a611b22c,manpain.org,premium,,,52,72,8,,,
 e945bc3a-79ff-4b45-abfb-be65aae65a19,indirectobject.org,premium,,,58,72,15,,,
@@ -5147,7 +5147,7 @@ f57957ee-521b-4f5e-b090-d54f78ae93c8,connaisseuse.org,premium,,,58,76,12,,,
 1012c942-a8fd-4a63-bb0b-0d6638ed0d3e,grilled.org,resell,,,62,5,7,"Wild West Domains, LLC",06/04/2004 18:24,06/04/2026 18:24
 4ad4b182-b470-4db7-84b0-d8c9cc47c8bc,countnoses.org,premium,,,60,72,11,,,
 f1310e91-98dc-409e-ae17-c85afa2fdf00,choruses.org,premium,,,40,12,8,,,
-b504bfb8-23d4-4823-b5f4-0e2b0ae84d63,shrub.org,resell,,,62,9,5,"GoDaddy.com, LLC",19/06/2002 11:46,19/06/2026 11:46
+b504bfb8-23d4-4823-b5f4-0e2b0ae84d63,shrub.org,resell,,,62,10,5,"GoDaddy.com, LLC",19/06/2002 11:46,19/06/2026 11:46
 b8fdef87-c668-43f5-bbc3-a725b2c01904,kiddy.org,resell,,,58,84,5,"GoDaddy.com, LLC",14/01/2022 14:30,14/01/2026 14:30
 e33c25b4-00ee-4412-97ec-528185d4a7e5,balloting.org,premium,,,56,68,9,,,
 f8a9b2e8-e2c7-4d99-8e99-3d40b296afc8,allegronontanto.org,premium,,,40,72,17,,,
@@ -7148,7 +7148,7 @@ bd54b438-ee2c-4d77-85ba-54a6eb9b846d,coolerbag.org,premium,,,70,76,10,,,
 cc243aac-24c3-400f-91dc-f3161ea1dde8,pieceofwork.org,premium,,,,80,13,,,
 79617243-d1a1-4b08-9bdb-d4132ca01765,champagnemango.org,premium,,,48,12,15,,,
 809b091f-c657-4d7e-be73-7932076892b2,protectionproxy.org,premium,,,54,72,16,,,
-737ad0f8-de07-450c-b1ce-8badd9192b63,awfully.org,resell,,,62,2,7,"Network Solutions, LLC",15/08/2018 14:30,15/08/2026 14:30
+737ad0f8-de07-450c-b1ce-8badd9192b63,awfully.org,resell,,,62,3,7,"Network Solutions, LLC",15/08/2018 14:30,15/08/2026 14:30
 e32c3df7-df5e-498c-a1b2-965cd4f62de7,acknowledgeable.org,premium,,,58,72,15,,,
 0e50b6f1-44ea-4dd4-81b7-c3c148840b28,bottomburp.org,premium,,,52,72,11,,,
 84216fcd-a249-43f1-8397-8273bc62c7b6,leanandmean.org,premium,,,60,80,13,,,
@@ -7443,7 +7443,7 @@ ddd5d05b-8f32-4bd0-bb11-d2ae53d8b116,pixeler.org,premium,,,68,76,7,,,
 83642ddf-ee01-4397-9f22-7c05768ebcde,getoneoveron.org,premium,,,68,72,15,,,
 f0638693-6f4e-4f9d-9d2c-e0bda0811c2f,commonhousemartin.org,premium,,,62,72,19,,,
 de1cb9f5-3ea9-4e84-8578-7efb165a96c8,dogshot.org,premium,,,76,1,8,,,
-25551020-5600-44f5-bca0-4bad1bf4f7e0,shining.org,resell,,,88,14,7,Dynadot Inc,06/04/2005 18:52,06/04/2028 18:52
+25551020-5600-44f5-bca0-4bad1bf4f7e0,shining.org,resell,,,88,15,7,Dynadot Inc,06/04/2005 18:52,06/04/2028 18:52
 6c4ee3e6-e7cf-4e14-a3f8-1a612a3d4608,sloggorne.org,premium,,,54,72,9,,,
 5999a3d0-41e5-4978-af7a-5320f8d625c8,stockcube.org,premium,,,58,72,10,,,
 6062b649-f57e-470e-a067-63b2eb3a0bda,hotoffthepresses.org,premium,,,34,72,19,,,
@@ -8279,7 +8279,7 @@ f0167cf9-54c6-4613-b0f3-eefe31a0b8fc,noticeboards.org,resell,,,,16,13,"GoDaddy.c
 8615346a-9852-4052-a840-57dff7ce0d23,analogize.org,premium,,,56,72,9,,,
 d20b9d9e-b71a-47a7-aa70-5821648ddef9,hairs.org,resell,,,48,32,5,"Wild West Domains, LLC",09/09/2004 19:01,09/09/2025 19:01
 05af2bb4-3154-4338-ac00-b4104b5c3e30,divinisation.org,premium,,,60,8,12,,,
-66fb9a35-664b-4ea2-9769-c751af4c7f24,blanket.org,resell,,,100,13,7,"OnlineNIC, Inc.",09/01/2003 11:28,09/01/2027 11:28
+66fb9a35-664b-4ea2-9769-c751af4c7f24,blanket.org,resell,,,100,12,7,"OnlineNIC, Inc.",09/01/2003 11:28,09/01/2027 11:28
 56998563-d59e-4792-ac47-d84ceb18a579,analyser.org,resell,,,68,72,8,"GoDaddy.com, LLC",16/11/2001 04:36,16/11/2026 04:36
 05fd7bd7-6ece-4d10-873e-e565f12cdd38,topthecharts.org,premium,,,,72,14,,,
 f93e6cd5-6c3a-4e33-8017-93f015968bb4,hittheshops.org,premium,,,62,72,13,,,
@@ -9037,7 +9037,7 @@ aec9ddba-7b8d-4bba-999f-bbf303cbd760,purveying.org,premium,,,,8,9,,,
 900d49e9-de66-4204-91f5-aaca9107b682,porbeagle.org,premium,,,52,72,9,,,
 5e6558e0-19ef-4a85-86bf-da0aadf93c37,prawncracker.org,premium,,,56,72,13,,,
 9f45353b-f706-4638-a927-866837122808,aswiseasanowl.org,premium,,,48,72,17,,,
-18c4c1f0-17c8-4133-9b12-4b972f81559c,bearing.org,resell,,,86,19,7,Porkbun LLC,13/01/2002 19:05,13/01/2029 19:05
+18c4c1f0-17c8-4133-9b12-4b972f81559c,bearing.org,resell,,,86,17,7,Porkbun LLC,13/01/2002 19:05,13/01/2029 19:05
 3ee7925b-96e5-4cb5-b71a-6220d212573e,terrestrialplanet.org,premium,,,66,72,18,,,
 49690f4c-af2e-4f17-9824-249635ba9d53,alludes.org,premium,,,36,12,7,,,
 0bce1a7f-83f6-475f-adfd-ad0b3c4b437e,unusuall.org,premium,,,56,72,8,,,
@@ -9247,7 +9247,7 @@ a5ba4df2-34d3-4659-83aa-8e6d37f7a045,beachchair.org,premium,,,60,72,11,,,
 14a3d3f8-d9e5-47fd-af9b-e5c383e9a11a,tapeecho.org,premium,,,,72,9,,,
 3dcca460-a96c-45fb-9944-1bde3b8749d2,backtherighthorse.org,premium,,,64,72,20,,,
 3309ed50-e50c-4bfe-9a2b-b0ea2c92daf9,footballhooliganism.org,premium,,,56,1,20,,,
-b0353e54-0c50-4314-b6fe-917694a44304,bouncy.org,resell,,,72,8,6,"GoDaddy.com, LLC",14/02/2000 21:52,14/02/2027 21:52
+b0353e54-0c50-4314-b6fe-917694a44304,bouncy.org,resell,,,72,7,6,"GoDaddy.com, LLC",14/02/2000 21:52,14/02/2027 21:52
 0e17c3ff-a4cb-40df-8211-f9e6d3e3d1cc,waterbirthing.org,premium,,,,8,14,,,
 e317ccf2-21f4-4daf-8026-0fdf14675a20,branchline.org,premium,,,56,80,11,,,
 80342ddf-78e2-43c4-b1d8-85799e0c1ac3,plugging.org,premium,,,58,76,8,,,
