@@ -60,6 +60,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 22ee917b-006b-44ea-8c7a-c5be26a7f3d5,TyphoidMary.org,available,15.98,,59,1,12,namecheap,,
 235781ee-abe7-471b-abae-a53de2480914,finalized.org,resell,,,52,2,9,"GoDaddy.com, LLC",22/03/2021 04:10,22/03/2027 04:10
 243459ef-0d39-48f3-8bf7-7cf4909acaf2,yellownotice.org,available,8.99,,60,1,13,name.com,,
+2526c875-7cdc-44e7-8ccb-87214d9d6f95,spray.org,resell,,,80,19,5,DropCatch.com 386 LLC,11/02/2026 15:15,11/02/2027 15:15
 266c230a-1f29-4d9b-8ad9-ea528da2b409,resulted.org,resell,,,46,2,8,"GoDaddy.com, LLC",02/12/2010 14:41,02/12/2026 14:41
 268ae9fe-27bc-4f93-909a-5940ea9a1280,setthestage.org,resell,,,66,3,13,"Sav.com, LLC",04/12/2023 18:27,04/12/2026 18:27
 268c9f2d-1749-4bc9-93ac-24603502fad0,guards.org,resell,,,76,9,6,"Network Solutions, LLC",21/02/2003 14:22,21/02/2027 14:22
@@ -562,7 +563,7 @@ f78256e3-2537-4d2e-afc1-f0c897591ddc,tendered.org,resell,,,53,3,8,Dot Holding In
 f7a77e53-6673-4ac0-85cd-294e5b418261,slipped.org,resell,,,70,3,7,"Sav.com, LLC - 39",26/02/2024 15:16,26/02/2027 15:16
 f8395fdf-2857-4327-8704-a37efe3a29f4,updates.org,premium,21321,,54,15,7,GoDaddy Online Services Cayman Islands Ltd.,12/07/2001 10:32,12/07/2026 10:32
 f891bbf8-18c6-4472-9bc3-c3845594d4c3,floodwaters.org,resell,,,56,2,11,"Sav.com, LLC - 35",07/07/2023 15:15,07/07/2026 15:15
-f8b12c6f-5d53-4075-8fe5-562dbb6ee0bc,cube.org,resell,,,74,43,4,"GoDaddy.com, LLC",10/06/1996 04:00,09/06/2027 04:00
+f8b12c6f-5d53-4075-8fe5-562dbb6ee0bc,cube.org,resell,,,74,44,4,"GoDaddy.com, LLC",10/06/1996 04:00,09/06/2027 04:00
 f9c96bcf-4e01-4445-9d9b-7f063127b781,menus.org,premium,24623.39,,54,14,5,Annulet LLC,20/11/2000 14:27,20/11/2026 14:27
 fa0a6c5e-db7e-4fc6-8c81-56bcc09fe2b9,soups.org,resell,,,56,6,5,Dynadot Inc,03/05/2005 19:13,03/05/2028 19:13
 fa86698e-8f91-4269-a115-bb92943e8c8f,Ispin.org,resell,,,76,5,6,Dynadot Inc,22/08/2024 15:15,22/08/2027 15:15
@@ -618,7 +619,7 @@ e7259ca1-9ef5-410c-b9f9-5ffffbc6fe5c,shavinglotion.org,premium,,,66,72,14,,,
 7292d7c6-58bb-4ee6-9ff0-ee8cd08828a1,pioneered.org,premium,,,,20,9,,,
 4c1e0330-78ac-4725-8d7d-e8fb2e92aa45,inkball.org,premium,,,62,72,8,,,
 a8109a28-c610-4724-b2df-eed4aa15f02c,piezosurgery.org,premium,,,,16,12,,,
-df0810b0-217e-4d32-adca-57f552f5dff9,seoul.org,resell,,,74,24,5,"GoDaddy.com, LLC",20/07/2001 20:29,20/07/2027 20:29
+df0810b0-217e-4d32-adca-57f552f5dff9,seoul.org,resell,,,74,25,5,"GoDaddy.com, LLC",20/07/2001 20:29,20/07/2027 20:29
 4ee57d5c-4fc2-4f8c-b97b-3f21e2217c5e,headhunters.org,resell,,,46,32,11,"GoDaddy.com, LLC",12/12/2000 11:37,12/12/2025 11:37
 9a5cc079-78fc-4147-bd97-393c711374d4,turbomode.org,premium,,,,16,10,,,
 6daabea3-7f13-495f-a96e-bd31e43254d4,backseatdrive.org,premium,,,54,76,15,,,
@@ -766,7 +767,7 @@ b1d2ea52-a559-4542-9e31-ff4ad7cb8966,downspout.org,premium,,,54,76,9,,,
 8f0bd611-b001-4e62-a4d7-5fbf02c4033a,headtofoot.org,premium,,,56,76,12,,,
 75e54f87-6b81-426a-a182-07e58fed80f3,treebark.org,premium,,,,80,8,,,
 8a6ca761-ee0a-4cb2-9009-0c3c8c8ad35c,shampooer.org,premium,,,58,72,9,,,
-2ef5daa4-1eeb-490d-85bc-5d4455ce46fd,toorder.org,premium,,,56,2,8,,,
+2ef5daa4-1eeb-490d-85bc-5d4455ce46fd,toorder.org,premium,,,56,1,8,,,
 d8492383-449d-4762-8bce-b72afa32cadb,heiduck.org,premium,,,60,76,7,,,
 eb84a025-0b94-4bde-acd9-a1b593c79b95,NewAlbin.org,premium,,,,72,9,,,
 1d80dbea-8332-4786-b05a-d9af91f1d65b,touringside.org,premium,,,60,72,12,,,
@@ -998,4 +999,3 @@ f77903ac-a720-4c2e-8e45-7693c948b6c6,daft.org,resell,,,56,11,4,"Name.com, Inc.",
 ec8d1039-652f-4b18-bea1-4a4c771beaad,shoal.org,resell,,,90,80,5,"GoDaddy.com, LLC",25/02/2020 14:30,25/02/2026 14:30
 7d10b63f-65f4-4cc8-85ab-f0b2b4435be5,LowSaxon.org,premium,,,46,72,9,,,
 9730657a-a942-4e22-99fb-7e674e5f6133,getround.org,premium,,,70,0,9,,,
-ede0bec9-745a-44cb-9343-3ae1b45224a0,Kiput.org,premium,,,52,72,5,,,
