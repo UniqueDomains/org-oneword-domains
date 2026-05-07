@@ -66,7 +66,7 @@ print(df.head())
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | hookedup.org      | available | $8.99      | —             | 56             | 6      | 9      | name.com                                    |
 | abatement.org     | resell    | $11,189.50 | $17.99        | 52             | 80     | 9      | GoDaddy.com, LLC                            |
-| icon.org          | premium   | $533,025   | —             | 89             | 43     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| icon.org          | premium   | $533,025   | —             | 89             | 46     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | notfor.org        | available | $8.99      | —             | 45             | 5      | 7      | name.com                                    |
 | rompers.org       | resell    | $9,526.60  | $21.99        | —              | 24     | 7      | 1API GmbH                                   |
 | simplify.org      | premium   | $33,166    | —             | 78             | 30     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
