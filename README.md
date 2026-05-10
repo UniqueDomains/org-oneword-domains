@@ -78,7 +78,7 @@ print(df.head())
 | commit.org        | premium   | $41,457.50 | —             | 78             | 26     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | fasttracking.org  | available | $8.99      | —             | 48             | 3      | 13     | name.com                                    |
 | roost.org         | resell    | —          | —             | 86             | 88     | 5      | NameCheap, Inc.                             |
-| refine.org        | premium   | $21,321    | —             | 78             | 24     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| refine.org        | premium   | $21,321    | —             | 78             | 25     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | slampoetry.org    | available | $8.99      | —             | 78             | 2      | 11     | name.com                                    |
 | fmt.org           | resell    | —          | —             | 78             | 88     | 3      | Dynadot Inc                                 |
 | pros.org          | premium   | $42,642    | —             | 53             | 23     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
