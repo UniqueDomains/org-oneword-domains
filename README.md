@@ -70,19 +70,19 @@ print(df.head())
 | notfor.org        | available | $8.99      | —             | 45             | 5      | 7      | name.com                                    |
 | rompers.org       | resell    | $9,526.60  | $21.99        | —              | 24     | 7      | 1API GmbH                                   |
 | simplify.org      | premium   | $33,166    | —             | 78             | 30     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| asusual.org       | available | $8.99      | —             | 58             | 3      | 8      | name.com                                    |
+| gaslighter.org    | available | $8.99      | —             | 68             | 3      | 11     | name.com                                    |
 | therapy.org       | resell    | —          | —             | 94             | 92     | 7      | GoDaddy.com, LLC                            |
 | pete.org          | premium   | $33,166    | —             | 68             | 29     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| iftheshoefits.org | available | $8.99      | —             | 55             | 3      | 16     | name.com                                    |
+| asusual.org       | available | $8.99      | —             | 58             | 3      | 8      | name.com                                    |
 | polaroid.org      | resell    | —          | —             | 82             | 92     | 8      | DropCatch.com 1063 LLC                      |
 | commit.org        | premium   | $41,457.50 | —             | 78             | 26     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| fasttracking.org  | available | $8.99      | —             | 48             | 3      | 13     | name.com                                    |
+| iftheshoefits.org | available | $8.99      | —             | 55             | 3      | 16     | name.com                                    |
 | roost.org         | resell    | —          | —             | 86             | 88     | 5      | NameCheap, Inc.                             |
 | refine.org        | premium   | $21,321    | —             | 78             | 25     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| slampoetry.org    | available | $8.99      | —             | 78             | 2      | 11     | name.com                                    |
+| fasttracking.org  | available | $8.99      | —             | 48             | 3      | 13     | name.com                                    |
 | fmt.org           | resell    | —          | —             | 78             | 88     | 3      | Dynadot Inc                                 |
 | Eddie.org         | premium   | $15,398.50 | —             | 72             | 23     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| seekfor.org       | available | $8.99      | —             | 74             | 2      | 8      | name.com                                    |
+| slampoetry.org    | available | $8.99      | —             | 78             | 2      | 11     | name.com                                    |
 | placebo.org       | resell    | —          | —             | 68             | 88     | 7      | Sav.com, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
