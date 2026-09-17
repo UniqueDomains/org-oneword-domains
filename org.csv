@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-d7e1e85b-2507-4014-897b-b1ca561b9a92,pickover.org,available,8.99,,medium,low,9,name.com,,,
+d7e1e85b-2507-4014-897b-b1ca561b9a92,pickover.org,available,14.99,14.99,low,low,9,namesilo,,,16/09/2026 17:09
 a622ef82-7728-48da-97b0-23c6db090fba,miterbox.org,available,,,medium,high,9,,,,
 bc7a7e68-cfa7-47de-b193-3387d72f8e42,clamchowder.org,available,,,medium,high,12,,,,
 5031e6c4-1aad-436f-b568-79345affe6af,azerbaijan.org,resell,,,medium,high,10,Dynadot Inc,27/03/2000 11:36,27/03/2026 11:36,
@@ -145,7 +145,7 @@ b8c6dcb3-cd06-43fc-b416-e8db01d7a0f8,gabbiness.org,available,,,medium,low,9,,,,
 6b106afc-1e47-49b4-831a-ab1c01c554fe,pagefile.org,available,,,medium,high,9,,,,
 c8f1dd49-0094-40f8-b26b-cf06ebd4ff78,yourstruly.org,resell,,,medium,low,11,"Spaceship, Inc.",11/12/2009 18:21,11/12/2026 18:21,
 e4d93217-4ceb-42a6-a2f0-b266e1c54f1d,suburb.org,resell,,,medium,high,6,"Sav.com, LLC",30/08/2001 18:48,30/08/2026 18:48,
-11cc9a46-d254-404d-82e4-f7f39551c681,abatement.org,resell,11189.5,17.99,medium,high,9,"GoDaddy.com, LLC",24/10/2000 21:38,24/10/2026 21:38,
+11cc9a46-d254-404d-82e4-f7f39551c681,abatement.org,resell,11189.5,17.99,low,low,9,"GoDaddy.com, LLC",24/10/2000 21:38,24/10/2027 21:38,16/09/2026 14:09
 7a80eb87-fa21-4db6-b218-07f591e35284,personify.org,resell,,,medium,high,9,"GoDaddy.com, LLC",20/01/2003 16:50,20/01/2026 16:50,
 74418168-a8c9-445a-aaca-e1c29d9f3aa4,festiveseason.org,available,,,medium,high,14,,,,
 9bd00f9a-6256-4ad1-b5c3-abe04c191782,hopple.org,available,,,medium,high,6,,,,
@@ -622,7 +622,6 @@ eb61ebc1-b617-4cb8-8d21-4ce3e7ae858a,gettobe.org,available,8.99,,medium,low,9,na
 e6081eb2-781d-4ca1-9071-85b1a768c31b,firstloser.org,available,,,medium,high,11,,,,
 545bb392-3771-4b99-9e19-350a744d4a53,amberliquid.org,available,,,medium,high,12,,,,
 afec38a1-35c1-4f27-ada8-e17a18ab536a,glamorized.org,available,,,medium,low,10,,,,
-6d665b43-86e8-4747-8d8a-ca81a80246cf,harmonize.org,resell,,,medium,high,9,PDR Ltd. d/b/a PublicDomainRegistry.com,03/05/2001 10:45,03/05/2026 10:45,
 e1e4ebe0-8daf-4793-8bb0-485064cd0d5d,Elliana.org,resell,,,medium,high,7,"Sav.com, LLC",11/05/2010 18:35,11/05/2026 18:35,
 80ed25f0-a134-4603-954b-e81315c1b8e8,bucketchemistry.org,available,,,medium,high,16,,,,
 d5051126-1bb9-4e2c-9337-040fa5618fe4,iambictetrameter.org,available,,,medium,low,17,,,,
@@ -633,7 +632,7 @@ db1b2239-b8e0-4379-8b64-b249616c7540,conjugateacid.org,available,,,medium,high,1
 f034abbb-b152-4353-b24a-87d8c321e4a2,howareyoudiddling.org,available,,,medium,high,20,,,,
 615ae098-68d4-472e-82a2-275c37329cf5,drainpipe.org,available,,,medium,high,9,,,,
 a3b13156-6d43-481b-a377-63b81c342830,followthecrowd.org,available,,,medium,high,16,,,,
-d39edca0-13e9-4bf5-bb6b-1d1cb56dc3d2,neckrest.org,available,8.99,,low,low,9,name.com,,,
+d39edca0-13e9-4bf5-bb6b-1d1cb56dc3d2,neckrest.org,available,14.99,14.99,low,low,9,namesilo,,,17/09/2026 02:22
 42e431a0-14de-4179-b277-00d405be3153,earrings.org,resell,,,medium,low,8,"GoDaddy.com, LLC",08/06/2005 18:57,08/06/2026 18:57,
 0af00a03-2d37-4387-ad04-d21e4e8f12af,getthetimeto.org,available,,,medium,high,15,,,,
 e63794b7-292c-43e0-85a8-21070650b6ac,mediational.org,available,,,medium,high,11,,,,
@@ -904,7 +903,7 @@ fb42ddbb-954f-46b0-b19f-ae1aa1331ec1,Grainau.org,available,,,medium,high,7,,,,
 d1f9943a-682f-42b0-aa1a-2c5e3e88c928,obsessive.org,resell,,,high,low,9,"Wild West Domains, LLC",20/04/2000 04:12,20/04/2027 04:12,
 055000f2-16ac-451b-84a9-65b7f8432d71,makefriendswith.org,available,8.99,,medium,low,17,name.com,,,
 5feb6f4a-6130-4bee-b29f-fbf9b79c31aa,yawn.org,resell,,,medium,low,4,Dynadot Inc,05/05/2001 10:33,05/05/2027 10:33,
-dd0df1aa-852c-42d2-a7a1-38ec2bf18770,goonholiday.org,available,8.99,,high,low,13,name.com,,,
+dd0df1aa-852c-42d2-a7a1-38ec2bf18770,goonholiday.org,available,14.99,14.99,low,low,13,namesilo,,,16/09/2026 16:46
 8b24b115-9226-4490-a27a-0e7522eb2d33,descriptively.org,available,,,medium,high,13,,,,
 d0b84db2-7c52-4ac2-ad75-e87c9ef98d29,mintcandy.org,available,,,medium,high,10,,,,
 b993a5c1-22ca-4a30-9109-53af5354cae6,ploughwoman.org,available,,,medium,high,11,,,,
@@ -999,3 +998,4 @@ c8535af9-adea-46fe-a093-8f806d365af3,ensure.org,resell,,,high,low,6,"GoDaddy.com
 6465317e-147d-4b1c-831a-8458315b1600,broout.org,available,,,medium,low,7,,,,
 72a1d2ca-501e-47f2-8e59-2b2f07e26940,outhit.org,available,,,low,low,6,,,,
 f968a27a-3448-4fd0-8e98-ee1f71d45cb7,pointedly.org,available,,,medium,high,9,,,,
+38b305b2-cb90-4554-9b5f-4aaf5401644f,funnylooking.org,available,8.99,,medium,low,13,name.com,,,
