@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .org one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 45,291 domains · **Median ask:** $2,704.68 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/org`
 **Best for:** founders, investors, studios
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ORG One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ORG One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
