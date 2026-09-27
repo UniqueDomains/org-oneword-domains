@@ -1,10 +1,10 @@
-# Available .ORG One-Word Domains (19,285)
+# Available .ORG One-Word Domains (19,342)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C285%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C342%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .org one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,285 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,342 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,285 domains · **Median ask:** $5,090.81 · **High-demand under $2,500:** 110
+**Public extract:** 1,000 rows · **Live catalog:** 19,342 domains · **Median ask:** $5,017.48 · **High-demand under $2,500:** 113
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/org`
@@ -68,7 +68,7 @@ print(df.head())
 | creams.org  | resell    | $9,200     | $21.99        | high           | low    | 6      | Tucows Domains Inc.                         |
 | fold.org    | premium   | $33,166    | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | gluey.org   | available | $8.48      | $18.98        | high           | low    | 5      | namecheap                                   |
-| systems.org | resell    | $91,885    | $21.99        | high           | low    | 7      | Dynadot Inc                                 |
+| systems.org | resell    | $91,885    | $21.99        | medium         | low    | 7      | Dynadot Inc                                 |
 | hoar.org    | premium   | $2,236.34  | $19.99        | medium         | low    | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com     |
 | purau.org   | available | $14.99     | $14.99        | medium         | low    | 5      | namesilo                                    |
 | mod.org     | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,285 live domains                        |
+| 1,000-row public sample | 19,342 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 110 high-demand names under $2,500         |
+| Basic exported fields   | 113 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

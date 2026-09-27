@@ -1,17 +1,18 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 53fa7996-5bee-46dc-99f8-636022d1a3df,actuators.org,resell,,,high,low,9,"GoDaddy.com, LLC",18/03/2002 00:42,18/03/2027 00:42,26/09/2026 01:22
-d350e826-dacd-4ed8-8636-c6b33a7170df,tournament.org,resell,,,high,high,10,Dynadot Inc,23/04/1999 04:00,01/12/2027 17:46,26/09/2026 09:42
+d350e826-dacd-4ed8-8636-c6b33a7170df,tournament.org,resell,,,high,low,10,Dynadot Inc,23/04/1999 04:00,01/12/2027 17:46,27/09/2026 05:49
 00915071-6caa-434b-96c7-13547f3dd59f,recklessly.org,resell,,,medium,low,10,"Sav.com, LLC - 39",14/02/2024 15:15,14/02/2027 15:15,26/09/2026 08:32
 7c6b37c8-f3a6-4c1b-8608-9e9c0828ff1d,conurbation.org,available,,,high,high,11,,,,
 72022d0c-563f-417b-aae7-8c05d1d6aa5b,sniffly.org,available,7.98,18.98,high,medium,7,namecheap,,,10/09/2026 12:35
 14efb5c1-2db1-416d-b03a-affc809edf39,clxxx.org,available,8.48,18.98,medium,low,5,namecheap,,,
 87c6f93b-9af9-4d2e-a257-35adefd74ca7,fold.org,premium,33166,,high,low,4,GoDaddy Online Services Cayman Islands Ltd.,15/10/2002 08:17,15/10/2026 08:17,
+0eab396e-8d63-4058-a642-f62fb7d0f486,buildings.org,resell,,,high,low,9,,,,27/09/2026 09:32
 68f27369-c000-47e2-b8f5-90593358dbc1,agleam.org,available,8.48,18.98,medium,low,6,namecheap,,,
 96d067e6-94ac-478a-82f3-be23131c25cb,conducted.org,resell,,,medium,low,9,"GoDaddy.com, LLC",15/12/2016 23:35,15/12/2026 23:35,26/09/2026 05:11
 4508a3f3-5218-4094-967a-117a6b2752f3,effeminize.org,available,,,high,high,10,,,,
 b82a180b-e261-4b6d-9704-b8b41dbe6396,altering.org,resell,,,high,low,8,"GoDaddy.com, LLC",05/02/2018 14:41,05/02/2027 14:41,26/09/2026 03:49
 f7497e1c-9a56-41a2-bc86-c6032964c478,biasing.org,available,,,high,high,7,,,,
-05b6e1a8-a2dc-487b-8967-0bab42d35ee6,systems.org,resell,91885,21.99,high,low,7,Dynadot Inc,30/03/1995 05:00,31/03/2034 05:00,26/09/2026 09:28
+05b6e1a8-a2dc-487b-8967-0bab42d35ee6,systems.org,resell,91885,21.99,medium,low,7,Dynadot Inc,30/03/1995 05:00,31/03/2034 05:00,27/09/2026 02:29
 fe9952aa-b444-4438-a6b7-c5f6be118cd3,accommodative.org,available,,,high,high,13,,,,
 19d5e701-cc4b-452c-bb6c-b83df087bf52,bookdealer.org,resell,,,high,high,10,"GoDaddy.com, LLC",14/05/2003 19:09,14/05/2027 19:09,26/09/2026 04:32
 8a4627e7-e007-4798-8ba7-d59d830e277e,create.org,resell,,,high,medium,6,"GoDaddy.com, LLC",08/05/1997 04:00,09/05/2027 04:00,26/09/2026 05:19
@@ -20,7 +21,7 @@ fe9952aa-b444-4438-a6b7-c5f6be118cd3,accommodative.org,available,,,high,high,13,
 46e86f6f-d7d0-4a8a-ba3d-7f9ce33ae0e2,slighting.org,available,8.48,18.98,medium,low,9,namecheap,,,09/08/2026 13:15
 4be51df3-d741-4832-8769-8cddcdf23b09,cooked.org,resell,,,high,low,6,GoDaddy Online Services Cayman Islands Ltd.,25/06/2002 18:38,25/06/2027 18:43,26/09/2026 05:14
 45fb4c8d-dcbd-4b4d-a5fc-59f3c37be04c,smartphone.org,resell,,,high,low,10,"Register4Less, Inc.",12/05/1999 03:27,12/05/2027 03:27,26/09/2026 09:06
-fc6c6b9e-d89f-4eb2-9a23-0bed9929de2e,detail.org,resell,,,high,low,6,Dynadot Inc,18/03/2001 11:35,18/03/2027 11:35,26/09/2026 05:31
+fc6c6b9e-d89f-4eb2-9a23-0bed9929de2e,detail.org,resell,,,high,low,6,Dynadot Inc,18/03/2001 11:35,18/03/2027 11:35,27/09/2026 09:10
 106f33a3-cf14-4e27-8b69-ecbe30b8fc36,panchaea.org,available,,,high,high,8,,,,
 0cdda86a-98ac-4fdb-a60a-ca15147ae266,huisache.org,available,8.48,18.98,medium,low,8,namecheap,,,16/09/2026 20:11
 d3b15d03-6f05-4898-8288-6941923b957d,nonromantic.org,available,,,high,high,11,,,,
@@ -158,7 +159,7 @@ f13ab3b0-e70f-4978-9338-bdd2370cac73,fivepence.org,available,,,high,high,9,,,,
 5cf068a8-9016-44dd-bd7a-ea59101c5370,singled.org,available,,,medium,low,7,,,,
 b53347e3-1ea6-46d2-80fc-6d701654c6b4,extravert.org,resell,,,high,low,9,"GoDaddy.com, LLC",31/07/2022 13:15,31/07/2027 13:15,26/09/2026 05:58
 a5019ff3-6669-42d5-a671-837ccfd0d637,grecanici.org,available,,,low,low,9,,,,
-a1c43e53-7f7e-4be8-b812-07743055d4e2,protected.org,resell,,,high,low,9,"GoDaddy.com, LLC",19/05/2000 16:23,19/05/2027 16:23,26/09/2026 08:23
+a1c43e53-7f7e-4be8-b812-07743055d4e2,protected.org,resell,,,high,low,9,"GoDaddy.com, LLC",19/05/2000 16:23,19/05/2027 16:23,27/09/2026 07:42
 235781ee-abe7-471b-abae-a53de2480914,finalized.org,resell,,,medium,low,9,"GoDaddy.com, LLC",22/03/2021 04:10,22/03/2027 04:10,26/09/2026 06:05
 3990a145-4073-4f51-b1c1-34c64819b0a9,monotony.org,resell,,,high,low,8,"GoDaddy.com, LLC",19/04/2024 15:15,19/04/2027 15:15,26/09/2026 07:37
 f7a77e53-6673-4ac0-85cd-294e5b418261,slipped.org,resell,,,high,low,7,"Sav.com, LLC - 39",26/02/2024 15:16,26/02/2027 15:16,26/09/2026 09:05
@@ -200,7 +201,7 @@ bbc1653f-3936-4c2b-93f4-5557c7ab67f6,flameproofer.org,available,,,high,high,12,,
 05fc62be-f141-456a-9a60-3da9881df814,metallize.org,available,,,high,high,9,,,,
 e586d333-8cd1-4f5a-9387-b2e20a669ec9,applier.org,available,14.99,14.99,medium,low,7,namesilo,,,19/09/2026 21:54
 48a696c6-ce7d-4eb2-926b-69779b9a2311,apiarist.org,resell,,,high,low,8,"GoDaddy.com, LLC",04/08/2007 03:55,04/08/2027 03:55,26/09/2026 03:55
-c8bf2dc3-e274-41ab-85b5-47a1aa2da28e,rake.org,resell,,,high,low,4,Dynadot Inc,13/09/2001 18:12,13/09/2027 18:12,26/09/2026 08:29
+c8bf2dc3-e274-41ab-85b5-47a1aa2da28e,rake.org,resell,,,high,low,4,Dynadot Inc,13/09/2001 18:12,13/09/2027 18:12,27/09/2026 07:07
 1684e440-b07d-4d24-a2ba-3f0997ece8f3,fraternalist.org,available,,,high,high,12,,,,
 10b14527-32f6-4b7e-9ef0-458121911e34,emulsify.org,available,,,high,high,8,,,,
 76cda1ec-4718-469f-a232-e4e73d331680,woolgathering.org,available,,,high,high,13,,,,
@@ -534,7 +535,6 @@ e650a051-79a6-4b95-807d-db057e2248da,tiktokky.org,available,,,high,high,8,,,,
 582c028a-5550-4fc6-ba89-c3f1137b35f3,littoral.org,resell,,,high,low,8,"Spaceship, Inc.",03/12/2021 14:30,03/12/2026 14:30,26/09/2026 07:16
 3dd83940-5a01-4f33-a4b7-66a6c7b7b4b3,sorelian.org,available,,,high,high,8,,,,
 dbcc0d77-51e0-4d84-addd-9513408f8916,industrializing.org,available,,,high,medium,15,,,,
-4c54179d-cbd6-4760-ab60-134e82ef7a2b,assume.org,premium,2861.2,21.99,high,low,6,"Azdomainz, LLC",16/02/2000 03:10,16/02/2027 03:10,
 0e7df28d-8888-4c52-aaaf-ece9d8e46931,lubricate.org,resell,,,high,high,9,"Sav.com, LLC",15/06/2014 14:30,15/06/2027 14:30,26/09/2026 07:20
 9fcfc5d2-540c-4349-b300-b99026cfd2a8,gamifying.org,available,14.99,14.99,medium,low,9,namesilo,,,26/09/2026 06:19
 70f47925-61df-4b4f-896c-a50a69388b8e,pipelike.org,available,,,high,high,8,,,,
@@ -761,6 +761,7 @@ fc0ad5fb-96bc-49da-9d84-55d4b33a18b9,bulbosacral.org,available,,,medium,low,11,,
 449c9341-1bdd-4775-8035-d7ef273db370,sixteens.org,available,,,medium,low,8,,,,
 aa930b42-39fb-43eb-9b26-aee6604c22be,amaurosis.org,available,14.99,14.99,medium,low,9,namesilo,,,18/09/2026 16:17
 2f7976d9-c0a9-41a5-87f4-283c28c48b2f,steadying.org,available,7.98,18.98,high,low,9,namecheap,,,10/09/2026 19:39
+b8755d26-0143-4689-810e-f211e1558903,directions.org,resell,,,high,low,10,,,,27/09/2026 09:16
 581b7b2f-8b4c-4943-a90c-5e1c1ed7c1fb,tapenade.org,available,,,high,medium,8,,,,
 e2b4368b-f6f8-4948-a5c5-3a2484f6e251,touchdown.org,resell,,,high,high,9,"GoDaddy.com, LLC",21/09/2002 04:47,21/09/2027 04:48,26/09/2026 09:41
 ab637874-2042-4039-803c-f8989adbddfc,apios.org,resell,,,medium,low,5,"GoDaddy.com, LLC",04/07/2023 02:53,04/07/2027 02:53,26/09/2026 03:55
@@ -990,6 +991,7 @@ d083f0ce-dcdd-4d76-90e7-833f98550fd8,loosens.org,available,,,medium,low,7,,,,
 d84571f6-710c-488e-b717-cb2ac28bcbb1,acinetae.org,available,,,low,low,8,,,,
 6576a7e7-ed1b-4ac6-a294-3c1ff07da638,laverstock.org,available,,,high,high,10,,,,
 3465a976-b2aa-4649-a26f-d84404f16e8b,moorgame.org,available,,,high,high,8,,,,
+99cdafe5-b18b-4929-ab2a-45c76a1e2de3,levels.org,resell,,,high,medium,6,,,,27/09/2026 11:07
 39be2744-9c1b-4dfa-8722-7b6bb15fd500,transliterates.org,available,,,low,low,14,,,,
 613453df-b175-4b9c-950f-d1ef86659f96,laconicism.org,available,,,high,high,10,,,,
 8cb17eb7-e59f-4eb8-9f2f-f225bb04cd6c,sprawl.org,resell,,,high,low,6,Atom.com Domains LLC,16/03/2003 17:29,16/03/2029 17:29,26/09/2026 09:14
@@ -997,5 +999,3 @@ d84571f6-710c-488e-b717-cb2ac28bcbb1,acinetae.org,available,,,low,low,8,,,,
 6c9dc40f-5f8a-45ae-b17a-93115e0b1c05,colorless.org,resell,,,high,low,9,"HOSTINGER operations, UAB",04/01/2013 14:35,04/01/2027 14:35,26/09/2026 05:07
 1060853b-b1e3-45cb-8e85-509efe72f5c4,vamper.org,available,,,high,high,6,,,,
 0048c7f3-27da-47c2-bcbb-2b731eaf0d73,ascertainable.org,available,,,high,high,13,,,,
-5c5d1f78-b414-4978-8d20-67d3faee372a,canvasing.org,available,,,high,high,9,,,,
-2a508165-abb3-47bd-a1f7-db0002e8405c,baffling.org,resell,,,medium,low,8,"GoDaddy.com, LLC",20/02/2014 15:11,20/02/2027 15:11,26/09/2026 04:13
