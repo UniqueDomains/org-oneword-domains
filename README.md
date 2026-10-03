@@ -1,10 +1,10 @@
-# Available .ORG One-Word Domains (20,810)
+# Available .ORG One-Word Domains (21,184)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C810%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C184%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .org one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,810 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,184 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,810 domains · **Median ask:** $2,520.18 · **High-demand under $2,500:** 117
+**Public extract:** 1,000 rows · **Live catalog:** 21,184 domains · **Median ask:** $2,447.40 · **High-demand under $2,500:** 117
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/org`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | systems.org    | resell    | $91,885    | $21.99        | high           | low    | 7      | Dynadot Inc                                 |
 | waive.org      | premium   | $2,947.04  | $19.99        | high           | low    | 5      | Annulet LLC                                 |
 | purau.org      | available | $14.99     | $14.99        | medium         | low    | 5      | namesilo                                    |
-| mod.org        | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
+| ayn.org        | resell    | —          | —             | high           | low    | 3      | —                                           |
 | senses.org     | premium   | $20,136.50 | —             | high           | low    | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | ragee.org      | available | $8.48      | $18.98        | medium         | low    | 5      | namecheap                                   |
-| nqf.org        | resell    | —          | —             | high           | high   | 3      | NameSilo, LLC                               |
+| mod.org        | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | insistent.org  | premium   | $2,236.34  | $19.99        | high           | low    | 9      | Annulet LLC                                 |
 | abwatt.org     | available | $14.99     | $14.99        | medium         | low    | 6      | namesilo                                    |
-| nwr.org        | resell    | —          | —             | high           | high   | 3      | 1API GmbH                                   |
+| nqf.org        | resell    | —          | —             | high           | high   | 3      | NameSilo, LLC                               |
 | carbonated.org | premium   | $2,236.34  | $19.99        | medium         | low    | 10     | Azdomainz, LLC                              |
 | agleam.org     | available | $8.48      | $18.98        | medium         | low    | 6      | namecheap                                   |
-| amyl.org       | resell    | —          | —             | high           | low    | 4      | DropCatch.com 733 LLC                       |
+| nwr.org        | resell    | —          | —             | high           | high   | 3      | 1API GmbH                                   |
 | broh.org       | premium   | —          | —             | high           | high   | 4      | Annulet LLC                                 |
 | amoxil.org     | available | $14.99     | $14.99        | medium         | low    | 6      | namesilo                                    |
-| bane.org       | resell    | —          | —             | medium         | low    | 4      | Spaceship, Inc.                             |
+| amyl.org       | resell    | —          | —             | high           | low    | 4      | DropCatch.com 733 LLC                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,810 live domains                        |
+| 1,000-row public sample | 21,184 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 117 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ORG One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ORG One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
