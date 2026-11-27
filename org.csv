@@ -68,7 +68,7 @@ fceb1bfc-67ea-4618-bb79-b71c36803c69,browallia.org,available,14,,high,high,9,uns
 49ab7a2d-94bb-4f15-8bef-c137efdb8fcc,ginnels.org,available,,,high,low,7,,,
 57d0e3b5-769a-416c-ba46-3e99dae2ce83,ribophorin.org,available,10.79,14.99,high,low,10,namesilo,,
 f577d86a-d64c-4cd3-94f2-8bafe2d6e6a6,djellaba.org,available,6.85,11.59,high,low,8,spaceship,,
-cba0ca4b-0805-41ac-ac83-688fa1dc2b0e,wencher.org,available,14,,high,high,7,unstoppable,,
+cba0ca4b-0805-41ac-ac83-688fa1dc2b0e,wencher.org,available,6.85,11.59,high,high,7,spaceship,,
 eab413c4-5ccb-4f3d-8284-468ecde121d2,pooh.org,resell,,,high,low,4,"GoDaddy.com, LLC",31/10/1998 05:00,30/10/2027 05:00
 1d679489-e127-4227-a523-7e5729d6d087,bedewed.org,available,8.48,18.98,high,low,7,namecheap,,
 ca4109d2-14db-4ba2-bed1-369f5c9c5511,prophylactic.org,resell,,,high,low,12,,,
@@ -236,7 +236,7 @@ bff5a3e0-8928-4c02-a4b3-28a97eb374cd,lamajoon.org,available,8.5,11.2,high,low,8,
 f73060ad-8aab-4e8a-b577-175480a1ca69,duckling.org,resell,,,high,low,8,"NameSilo, LLC",23/06/2017 14:30,23/06/2027 14:30
 4b002337-997c-4bb7-a77b-c78b02274594,sequencing.org,resell,,,high,low,10,,,
 dcc35c89-f094-47d9-975e-69ce62d1e88e,ambulances.org,resell,,,high,low,10,"Spaceship, Inc.",17/03/2018 14:30,17/03/2027 14:30
-6d8671a8-b97a-4a3e-8ebd-0b0090f8fd94,longbowman.org,available,6.85,11.59,high,high,10,spaceship,,
+6d8671a8-b97a-4a3e-8ebd-0b0090f8fd94,longbowman.org,available,9.99,14.99,high,high,10,namesilo,,
 69609d48-35d4-427a-83c1-949dbcfbb4bd,isotropous.org,available,14,18.98,high,low,10,unstoppable,,
 11e8d088-c511-4ceb-a7aa-12c4d576171c,camphorate.org,available,7.99,11.64,high,high,10,dynadot,,
 3d960428-7502-41c3-bf72-e3227b23de65,creams.org,resell,9200,21.99,high,low,6,Tucows Domains Inc.,01/02/2000 01:32,01/02/2027 01:32
@@ -388,7 +388,7 @@ a79e7636-b6a1-44d4-883d-2e83c3c12a3a,cultural.org,premium,23.99,,high,low,8,"Net
 db82bf1d-739c-48e7-ba94-f2f3a5674e3e,strawberries.org,resell,,,high,low,12,,,
 b3561ba4-fc1d-49bf-af33-0a5933b8e821,semiregular.org,available,7.49,15.99,high,high,12,godaddy,,
 10672fe6-75df-43eb-8e7d-4018f57eb56e,fancied.org,available,14,18.98,high,low,7,unstoppable,,
-4e0ad97d-90ae-44a7-9d27-abda6109dc8f,ragmuffin.org,available,14,,high,high,9,unstoppable,,
+4e0ad97d-90ae-44a7-9d27-abda6109dc8f,ragmuffin.org,available,9.99,14.99,high,high,9,namesilo,,
 8619715f-41bc-42e5-be62-ead175e6f4c4,manure.org,resell,,,high,low,6,,,
 51bc6e2d-5271-400b-aa85-57adf7cd76e6,savers.org,resell,,,high,low,6,,,
 68cbcc86-da39-40ab-bf03-f59dabe5dc0e,condylic.org,available,,,high,low,8,,,
@@ -433,7 +433,7 @@ a6071e40-2c1e-409d-9057-ff1a4bcd9e15,acidless.org,available,7.99,11.64,high,high
 4244c08d-0a49-4657-ba68-21e39c040774,phobia.org,resell,,,high,low,6,,,
 14ec9e54-3c7a-4659-ac29-d861a4038ba0,artificially.org,resell,,,high,low,12,"GoDaddy.com, LLC",12/09/2007 20:22,12/09/2027 20:22
 e7525c98-b930-4ab4-885c-cf9927adceea,beneath.org,resell,,,high,low,7,"NameSilo, LLC",22/09/2005 18:51,22/09/2027 18:51
-e113d5c4-f3b9-4ade-84d9-61caa48b34ad,lanthanide.org,available,8.5,11.2,high,low,10,cloudflare,,
+e113d5c4-f3b9-4ade-84d9-61caa48b34ad,lanthanide.org,available,14,11.2,high,low,10,unstoppable,,
 392fad7e-3789-4407-8805-f63e651573a2,seatback.org,available,10.79,14.99,high,low,8,namesilo,,
 cb35f9cd-ef9b-463f-bc54-656f68fcb798,housewarm.org,available,9.99,14.99,high,low,9,namesilo,,
 23102099-fa5b-4fd4-90f1-901d9a273a23,midbuccal.org,available,,,high,low,9,,,
@@ -512,7 +512,6 @@ b0e10ee6-032b-4150-8448-9677bd7fae17,reflexion.org,resell,,,high,low,9,"Go China
 8aa1ee74-e737-410f-826a-36ff458df830,midspectral.org,available,,,high,low,11,,,
 bb88ee51-474b-4ad1-a16f-92f6649e3c5f,shanties.org,available,,,high,low,8,,,
 7c63dcca-4393-4f35-9e7a-fca3da3edd73,inspissate.org,available,6.85,11.59,high,low,10,spaceship,,
-178c7157-9af7-45ae-9a9e-d114b5273157,speedread.org,resell,,,high,low,10,DropCatch.com 474 LLC,07/01/2022 14:30,07/01/2027 14:30
 3668e4ba-aa80-4fb8-85cd-500b30ed90c7,songkok.org,available,10.79,14.99,high,low,7,namesilo,,
 9ebfff94-8f2d-4e86-9364-14e79fec58d6,vertices.org,resell,,,high,low,8,"GoDaddy.com, LLC",02/08/2020 14:31,02/08/2027 14:31
 329be010-dc9d-4a32-b785-969e810a012d,professionalise.org,available,,,high,low,15,,,
@@ -520,7 +519,6 @@ bb88ee51-474b-4ad1-a16f-92f6649e3c5f,shanties.org,available,,,high,low,8,,,
 d212da40-229b-4104-b1ca-c942b6cee020,prewash.org,available,6.85,11.59,high,low,7,spaceship,,
 d2e12bd4-492d-436d-98d2-ff939dfcde8d,blushing.org,resell,,,high,low,8,"GoDaddy.com, LLC",14/10/2011 14:30,14/10/2027 14:30
 e47716c8-e502-46b2-8931-c988bfd29020,biscotto.org,available,10.79,14.99,high,low,8,namesilo,,
-ba49e841-938d-498e-80a4-58fadd766a94,kettlebell.org,resell,,,high,low,10,,,
 5a9c381c-2749-4eee-9499-9d7dbbe13c21,padang.org,resell,,,high,low,6,,,
 540684d8-34df-40c8-8697-4d254a1e6b77,longminded.org,available,10.79,14.99,high,high,11,namesilo,,
 005ad954-da57-4994-8a1c-7fdd4bc06cdc,continually.org,resell,,,high,low,11,"GoDaddy.com, LLC",25/02/2008 17:17,25/02/2027 17:17
@@ -549,7 +547,7 @@ b1172290-3113-4bb4-8d3f-e5d43ef4f3c8,racklike.org,available,10.79,14.99,high,hig
 92bccbef-6f43-4a55-96e9-63f7759fe221,gigabit.org,resell,,,high,low,7,,,
 d4424dbb-0910-4dcb-bd72-f2d68b893251,codlike.org,available,7.49,15.99,high,high,7,godaddy,,
 fc0ad5fb-96bc-49da-9d84-55d4b33a18b9,bulbosacral.org,available,,,high,low,11,,,
-7d9d9498-5b90-4d09-8864-0b783a5130a8,flauntingly.org,available,8.48,18.98,high,high,11,namecheap,,
+7d9d9498-5b90-4d09-8864-0b783a5130a8,flauntingly.org,available,7.99,11.64,high,high,11,dynadot,,
 581b7b2f-8b4c-4943-a90c-5e1c1ed7c1fb,tapenade.org,available,7.49,15.99,high,low,8,godaddy,,
 ab637874-2042-4039-803c-f8989adbddfc,apios.org,resell,,,high,low,5,"GoDaddy.com, LLC",04/07/2023 02:53,04/07/2027 02:53
 f9815739-ba7e-416e-9d42-83842418b324,wishbones.org,available,,,high,low,9,,,
@@ -630,7 +628,7 @@ f6397cd2-4d7b-48e6-97e2-435066432f33,spalike.org,available,7.99,11.64,high,low,7
 22df98cb-efaa-47a1-9fbf-7f00fa8b2bbd,stakeholders.org,resell,,,high,low,12,Dynadot Inc,27/04/2004 19:11,27/04/2027 19:11
 9aed6e30-c9d6-4200-99e1-1fa9a6dffdd5,directives.org,resell,,,high,low,10,"GoDaddy.com, LLC",30/08/2020 14:30,30/08/2027 14:30
 ac2f6ec4-fe2c-4971-ab3a-fb63f371aeae,descendingly.org,available,,,high,low,12,,,
-2f42dc63-d37c-4f52-80fc-d61da3ea6586,jugful.org,available,10.79,14.99,high,high,6,namesilo,,
+2f42dc63-d37c-4f52-80fc-d61da3ea6586,jugful.org,available,7.99,11.64,high,high,6,dynadot,,
 5229939b-d61b-481b-be41-3f85d74834ff,handscroll.org,available,10.79,14.99,high,low,10,namesilo,,
 094d0fba-2d64-456b-a85f-8b485dc7e1d0,drafters.org,resell,,,high,low,8,,,
 08592a0c-6599-4af8-b0a2-bfe49767a4d9,dreamcatcher.org,resell,,,high,low,12,"GoDaddy.com, LLC",10/07/2012 14:30,10/07/2027 14:30
@@ -644,6 +642,7 @@ a6d96a08-fa67-444f-b17a-f9627c2f2fd7,septette.org,available,10.79,14.99,high,hig
 1209dc25-7466-4c7d-9aab-1458d703b84a,bilby.org,resell,,,high,low,5,"Spaceship, Inc.",27/06/2023 15:15,27/06/2027 15:15
 1cf69414-2c53-4ac7-a201-e9c326d8aacb,sunfilled.org,available,10.79,14.99,high,low,9,namesilo,,
 2a920940-f63e-4b6e-bf1f-f6ef7584fa39,reminding.org,resell,,,high,low,9,,,
+9ff5afb6-1eb3-4ea4-b970-2b21f6837066,repitition.org,available,6.85,11.59,high,low,10,spaceship,,
 6809603c-1d05-408e-b108-77cb7480ad1b,jimador.org,available,,,high,low,7,,,
 2755e180-9926-4c9b-a303-7f2fb912a33e,schoolroom.org,resell,,,high,low,10,,,
 577b36aa-bf16-41de-9d06-76cb3e3b81f0,inboard.org,resell,,,high,low,7,"GoDaddy.com, LLC",18/05/2006 05:17,18/05/2027 05:17
@@ -702,7 +701,7 @@ bf8c8b57-0296-43e4-b9f1-12b4d0f884f6,ital.org,resell,,,high,low,4,,,
 cd8937b4-42c8-4dac-b33c-f83c315ef1c3,indicative.org,resell,,,high,low,10,"Network Solutions, LLC",12/01/2015 15:07,12/01/2027 15:07
 e3302e7c-9328-43e0-beb5-46a43fcabd20,sits.org,resell,,,high,low,4,"GoDaddy.com, LLC",26/08/1998 04:00,25/08/2027 04:00
 674d73aa-9d8e-4c62-8faa-8c0a29054f35,refasten.org,available,14,,high,low,8,unstoppable,,
-fdbe530b-8b3b-4d98-91bd-a1614770db2d,tetraterpene.org,available,6.85,11.59,high,high,12,spaceship,,
+fdbe530b-8b3b-4d98-91bd-a1614770db2d,tetraterpene.org,available,9.99,14.99,high,high,12,namesilo,,
 34de0008-9e5b-4fc8-a814-fdfb6955f5f8,selfraising.org,available,,,high,low,12,,,
 d083f0ce-dcdd-4d76-90e7-833f98550fd8,loosens.org,available,14,11.59,high,high,7,unstoppable,,
 3150ba97-3947-433a-802f-75a2c1eb4506,horsehead.org,resell,,,high,low,9,"GoDaddy.com, LLC",09/05/2015 14:30,09/05/2027 14:30
@@ -710,7 +709,7 @@ d083f0ce-dcdd-4d76-90e7-833f98550fd8,loosens.org,available,14,11.59,high,high,7,
 3465a976-b2aa-4649-a26f-d84404f16e8b,moorgame.org,available,7.49,15.99,high,high,8,godaddy,,
 99cdafe5-b18b-4929-ab2a-45c76a1e2de3,levels.org,resell,,,high,low,6,,,
 39be2744-9c1b-4dfa-8722-7b6bb15fd500,transliterates.org,available,,,high,low,14,,,
-613453df-b175-4b9c-950f-d1ef86659f96,laconicism.org,available,8.5,11.2,high,high,10,cloudflare,,
+613453df-b175-4b9c-950f-d1ef86659f96,laconicism.org,available,9.99,14.99,high,high,10,namesilo,,
 2771b82f-f171-4238-8d01-6609f3ea04bb,circumcircle.org,available,10.79,14.99,high,low,12,namesilo,,
 8cb17eb7-e59f-4eb8-9f2f-f225bb04cd6c,sprawl.org,resell,,,high,low,6,Atom.com Domains LLC,16/03/2003 17:29,16/03/2029 17:29
 3b72373a-2808-46d5-9181-7b48162249cc,shaking.org,resell,,,high,low,7,"GoDaddy.com, LLC",09/09/2005 18:59,09/09/2027 18:59
@@ -729,12 +728,10 @@ b8e31b13-2a7a-4477-894f-9029ab85e401,almose.org,available,6.85,11.59,high,low,6,
 94e1839d-e5cc-40d2-b4bc-ba209de62db5,turbulent.org,resell,,,high,low,9,"GoDaddy.com, LLC",31/01/2008 15:09,31/01/2027 15:09
 7748a58b-9531-4098-9e4a-ef38f317e18c,uprightness.org,available,8.48,18.98,high,low,11,namecheap,,
 a213f35e-dcf7-4464-b434-6930046c623f,euphemise.org,available,9.99,14.99,high,high,9,namesilo,,
-b520eeb6-5ab8-44cb-be06-64a9996eaf18,phew.org,resell,,,high,low,4,"GoDaddy.com, LLC",09/01/2003 16:36,09/01/2027 16:36
 a059eb61-2f7b-42ab-8b1c-05929c4eaa22,ecp.org,resell,,,high,low,3,,,
 d992763d-43a0-4ce5-8706-0ba5b9d835a4,playgoers.org,available,,,high,low,9,,,
 2fb6c5ff-e8a0-4b9f-9193-fbf2566a956b,conniving.org,resell,,,high,low,9,DropCatch.com 1430 LLC,09/09/2025 15:15,09/09/2027 15:15
 9b8e7eba-656c-4d2d-b288-e35280938a57,lask.org,resell,,,high,low,4,,,
-d064c9ef-0089-4956-9e69-9043576504ae,supersub.org,resell,,,high,low,9,,,
 349bf54b-84d5-47c4-a169-a62a3df58a27,resealing.org,available,,,high,low,9,,,
 c24ba5ef-f173-439d-bd5b-c030d204fdc3,ariose.org,available,6.85,11.59,high,low,6,spaceship,,
 00653a50-5860-4b9d-93cd-a7cbb1a61b28,dragged.org,available,14.99,14.99,high,low,7,namesilo,,
@@ -768,7 +765,7 @@ ceef69e6-e3fb-46f8-add5-9b44252086e3,weefie.org,available,6.85,11.59,high,low,6,
 7e0ed3ea-7aff-4e67-926b-585e30083402,beverages.org,resell,,,high,low,9,,,
 ddfb7400-c617-4d7f-8d6b-16a23eb1be59,petting.org,resell,,,high,low,7,,,
 a94dc5ad-2094-4916-b93a-9184530c426d,prolonging.org,available,6.85,11.59,high,low,10,spaceship,,
-cbfc2ce2-5976-47a5-9964-213d03b7400b,georeactor.org,available,6.85,11.59,high,high,10,spaceship,,
+cbfc2ce2-5976-47a5-9964-213d03b7400b,georeactor.org,available,9.99,14.99,high,high,10,namesilo,,
 185d2147-5b49-4642-8834-520af9144d50,chive.org,resell,,,high,low,5,"GoDaddy.com, LLC",16/05/2006 19:06,16/05/2027 19:06
 cd8cb09d-1b52-499f-afba-458641cd62cf,mercerize.org,available,6.85,11.59,high,high,9,spaceship,,
 f1025347-7d89-4cdf-b156-26fb35154527,codifying.org,available,10.79,14.99,high,low,9,namesilo,,
@@ -787,10 +784,9 @@ fa212555-344a-45ec-90e6-f8fddf176bd5,abirritations.org,available,,,high,low,13,,
 f2dab216-ab77-48e3-adc2-32347027ad94,fanlisting.org,available,14,,high,low,10,unstoppable,,
 d8329a42-5c39-4610-8b89-7d9fff1c3eed,greasiest.org,available,,,high,low,9,,,
 92158bb3-0b1d-47f0-8498-86e80dd1328f,tomentum.org,available,7.99,11.64,high,low,8,dynadot,,
-27ada5f6-c699-4997-a23e-8edd0bb9dff2,winky.org,resell,,,high,low,5,,,
 a059a5e9-b3bb-44ca-81ff-f8b1d1e47dd3,boxholder.org,available,9.99,14.99,high,high,9,namesilo,,
 70255d20-17b0-4ef3-9869-e397585ef980,briskly.org,resell,,,high,low,7,"GoDaddy.com, LLC",07/03/2018 14:34,07/03/2027 14:34
-5ec2487b-7fd7-4cb8-a701-c98aa902f10e,hindquarter.org,available,8.5,11.2,high,high,11,cloudflare,,
+5ec2487b-7fd7-4cb8-a701-c98aa902f10e,hindquarter.org,available,6.85,11.59,high,high,11,spaceship,,
 68c33232-048d-4c12-aa79-e404c313ecf2,oxyhemoglobin.org,available,,,high,low,13,,,
 07e35418-a53c-4ce5-8923-7faa2754d04b,ebullience.org,resell,,,high,low,10,,,
 c1f5b3dc-0eb1-4d73-b730-eae3eba6ae71,supersaurus.org,available,6.85,11.59,high,high,11,spaceship,,
@@ -804,6 +800,7 @@ e3f6e8da-f242-478b-8199-501f1f52e3a1,swooped.org,available,,,high,low,7,,,
 13df2de1-c2f7-45e2-a475-3e23c23192d0,mastodonlike.org,available,,,high,low,12,,,
 3603a991-1cb1-4beb-9ad7-1104ca65fe0e,sharpener.org,resell,,,high,low,9,"GoDaddy.com, LLC",29/04/2016 14:30,29/04/2027 14:30
 2c84a18b-a19c-418f-8563-9b6730f40c63,interracial.org,resell,,,high,low,11,Moniker Online Services LLC,29/01/2005 18:51,29/01/2027 18:51
+160d5ca4-78d1-428b-8353-d3e06415f793,unsicken.org,available,9.99,14.99,high,low,8,namesilo,,
 657d6ba2-291f-434c-8029-55cae106c007,infertile.org,resell,,,high,low,9,"Spaceship, Inc.",07/02/2004 09:38,07/02/2027 09:38
 28fef2a4-bdd2-4f0e-ba15-995fa90cf77f,simpers.org,available,,,high,low,7,,,
 031e2261-017e-45b3-a0ec-0a16f0b9a462,perceptual.org,resell,,,high,low,10,Dynadot Inc,03/05/2005 19:09,03/05/2028 19:09
@@ -821,6 +818,7 @@ c0288c2f-8d45-478a-89ce-1f007d51f2c1,geyseric.org,available,,,high,low,8,,,
 cc4622a6-1529-4caf-83c1-c9fac9310541,bindable.org,available,6.85,11.59,high,low,8,spaceship,,
 3f0ae081-5eb8-4969-a77e-369ce55fd103,dashingness.org,available,,,high,low,11,,,
 4832ddb5-015e-4c3c-bbe2-5d59578870c9,chickenyard.org,available,10.79,14.99,high,low,11,namesilo,,
+13942352-9bac-4599-9ba9-54ae66e50de4,waremaker.org,available,6.85,11.59,high,low,9,spaceship,,
 c893cb58-252a-4305-9806-853f2071995d,overshampoo.org,available,14,,high,low,11,unstoppable,,
 0eeb5fca-658d-47d4-a203-0a1cf0b327f6,nitride.org,resell,,,high,low,7,,,
 b7294caf-3338-4be1-9c65-9ecb636bf835,fingerwidth.org,available,7.98,11.84,high,low,12,porkbun,,
@@ -861,6 +859,7 @@ e9c89820-45c1-4919-9576-2b41db070e3d,stockbroking.org,resell,,,high,low,12,"GoDa
 d3f2faeb-d467-4910-a58b-e3fbe985a134,crystallochemistry.org,available,8.5,11.2,high,high,18,cloudflare,,
 5b49e2ec-cfb3-47b2-91a4-3aa97dd14ce7,flattops.org,available,,,high,low,8,,,
 40d5283b-f640-40f6-b2f8-efa2070c14bb,wavy.org,resell,,,high,low,4,"GoDaddy.com, LLC",21/04/1999 04:00,21/04/2027 04:00
+8f02ef6c-31a2-4e12-8032-072fa1d542dd,subassembler.org,available,8.5,11.2,high,low,12,cloudflare,,
 cb84c06c-a7b1-4151-a4b8-79cf844211fb,quaver.org,resell,,,high,low,6,,,
 872ce41b-ac75-49c7-904e-fddb20018cd2,especially.org,resell,,,high,low,10,"GoDaddy.com, LLC",20/01/2003 03:36,20/01/2027 03:36
 a18953ac-e068-4619-89d4-f60d565693e8,cracker.org,resell,,,high,low,7,"Sav.com, LLC - 37",25/04/2024 15:15,25/04/2027 15:15
@@ -888,7 +887,7 @@ ae7c8d2d-fdbd-4493-91f1-9076204af9b8,plectron.org,available,10.79,14.99,high,low
 05a6f525-e8b3-40eb-8eb4-eec5750a0e69,chertify.org,available,10.79,14.99,high,low,8,namesilo,,
 bc6c0a41-d0cd-47fb-995c-06082eed83a8,bookmaking.org,resell,,,high,low,10,"GoDaddy.com, LLC",09/04/2024 15:15,09/04/2027 15:15
 612e518f-36b8-4534-95e7-1708930e9808,motorizes.org,available,,,high,low,9,,,
-b8e1546c-2d56-4220-96bc-57eda001885d,pumpkinish.org,available,10.79,14.99,high,high,10,namesilo,,
+b8e1546c-2d56-4220-96bc-57eda001885d,pumpkinish.org,available,14,14.99,high,high,10,unstoppable,,
 5907c125-4adb-4de6-97f3-dccd4183799e,motorized.org,resell,,,high,low,9,"GoDaddy.com, LLC",16/03/2012 14:30,16/03/2027 14:30
 9d9a8fb4-e99e-4eb1-8b0b-81e4c54f1e3f,nonvegan.org,available,7.99,11.64,high,high,8,dynadot,,
 9ef3a108-d8d4-4f50-ab6d-8b1b8da7b066,diose.org,available,8.48,18.98,high,low,5,namecheap,,
@@ -999,3 +998,4 @@ f080a811-8433-44f3-9c0e-ca805649d8a2,grueling.org,available,6.85,11.59,high,low,
 4bac6da2-aa30-4fcf-a45e-44f9422a900c,cheesiness.org,available,14,,high,high,10,unstoppable,,
 cb8dc9e9-7d44-4573-ac35-c93389faa285,bonzer.org,resell,,,high,low,6,"Spaceship, Inc.",29/05/2016 15:51,29/05/2027 15:51
 07bac60d-c43e-4fbf-90ea-ff8a53cbecd5,evocative.org,resell,,,high,low,9,Unstoppable Domains Inc.,26/06/2025 15:15,26/06/2028 15:15
+018d0224-55eb-4526-9796-69d4cc416caa,hoppers.org,resell,,,high,low,7,,,
