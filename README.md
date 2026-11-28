@@ -4,9 +4,9 @@
 
 1,000 real .org one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [59,105 names on .org](https://unique.domains/tld/org); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [59,183 names on .org](https://unique.domains/tld/org); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-21,908 one-word .org names are free to register today. Cheapest first year $6.85 at Spaceship, renewal $11.59 there. 2,334 .org sales in the last 12 months, median $810.
+22,020 one-word .org names are free to register today. Cheapest first year $6.85 at Spaceship, renewal $11.59 there. 2,337 .org sales in the last 12 months, median $810.
 
 Live page: [unique.domains/tld/org](https://unique.domains/tld/org?utm_source=github&utm_medium=referral&utm_campaign=repo_org_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 13,918 names in the live list today.
+- The files hold 1,000 rows of the 13,916 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
